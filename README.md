@@ -35,7 +35,7 @@
   
 [gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 [linkedin]: https://www.linkedin.com/in/rangappa-70023427b/
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com/crazykiller_rangu_45/
 
 # GitHub Stats:
 
