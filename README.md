@@ -35,18 +35,9 @@
 [linkedin]: https://www.linkedin.com/in/rangappa-70023427b/
 [instagram]: https://www.instagram.com/crazykiller_rangu_45/
 
-# GitHub Stats:
 
-<table>
-  <tr>
-    <td style="border: none;">
-    
-   
-    <td style="border: none;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=arcane77&theme=tokyonight&hide_border=false" />
-    </td>
-  </tr>
-</table>
+
+
 
 
 
